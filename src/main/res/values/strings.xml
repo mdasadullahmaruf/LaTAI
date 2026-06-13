@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaT AI</string>
+    <string name="accessibility_desc">LaT background automation service for hands-free voice command execution.</string>
+</resources>
